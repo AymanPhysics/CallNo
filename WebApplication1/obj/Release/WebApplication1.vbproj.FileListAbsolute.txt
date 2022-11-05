@@ -1,0 +1,13 @@
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\obj\Release\WebApplication1.vbprojResolveAssemblyReference.cache
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\obj\Release\WebApplication1.Resources.resources
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\obj\Release\WebApplication1.vbproj.GenerateResource.Cache
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\WebApplication1.dll
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\WebApplication1.pdb
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\WebApplication1.xml
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\CallNo.exe
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\Interop.WMPLib.dll
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\CallNo.pdb
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\bin\CallNo.xml
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\obj\Release\WebApplication1.dll
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\obj\Release\WebApplication1.xml
+F:\Projects\MyDotNetProjects\CallNo\WebApplication1\obj\Release\WebApplication1.pdb
